@@ -89,7 +89,7 @@ h2.left span {
 
 @media screen and (max-width: 1000px) {
   .fade-img img {
-    height: 70vh;
+    height: 100vh;
   }
 }
 
