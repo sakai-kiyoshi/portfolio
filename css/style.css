@@ -173,17 +173,6 @@ h2.left span {
   }
 }
 
-.top-wrapper .top-text:after {
-  border-top: 1px solid;
-  content: "";
-  width: 5em;
-}
-
-@media screen and (max-width: 1000px) {
-  .top-wrapper .top-text:after {
-    width: 4rem;
-  }
-}
 
 header .pc-header nav.header {
   display: -webkit-box;
