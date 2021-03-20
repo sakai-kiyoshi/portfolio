@@ -793,8 +793,3 @@ h2 {
   }
 }
 
-@media (max-width: 500px) {
-  .top-wrapper .top-logo h1.top-logo-title {
-    font-size: 30px;
-  }
-}
