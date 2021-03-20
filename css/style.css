@@ -786,3 +786,9 @@ h2 {
     margin-right: 0;
   }
 }
+
+@media (max-width: 750px) {
+  .top-wrapper .top-logo h1.top-logo-title {
+    font-size: 45px;
+  }
+}
