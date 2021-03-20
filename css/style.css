@@ -89,7 +89,7 @@ h2.left span {
 
 @media screen and (max-width: 1000px) {
   .fade-img img {
-    height: 100vh;
+    height: 70vh;
   }
 }
 
@@ -115,7 +115,7 @@ h2.left span {
 
 @media screen and (max-width: 1000px) {
   .top-wrapper {
-    height: 100vh;
+    height: 70vh;
   }
 }
 
